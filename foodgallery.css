@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+.row{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    text-align: center;
+}
+body{
+    background-image: url(./images/foodbg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-family: 'Lobster', cursive;
+}
+p{
+    color: yellow;
+    /* font-family: 'Dancing Script', cursive; */
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Sansita Swashed', cursive;
+    padding: 5%;
+    font-size: large;
+    text-align: center;
+}
+img{
+    width: 90%;
+    height: 37%;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background-color: rgb(83, 17, 17);
+    color: rgb(227, 243, 9);
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Lobster', cursive;
+    
+    
+}
+button:hover{
+    background-color:rgb(227, 243, 9);
+    color: rgb(83, 17, 17);
+    
+
+}
+.col{
+    height: 75%;
+    width: 18%;
+    /* border: 2px black solid; */
+}
+.col1{
+    /* background-color:white; */
+}
+
+.col2{
+    /* hhh */
+}
+
+.col3{
+    /* background-color: white; */
+}
+
+.col4{
+    /* background-color: white; */
+}

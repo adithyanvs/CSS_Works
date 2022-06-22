@@ -1,0 +1,23 @@
+button{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    
+}
+h1{
+    color: blue;
+}
+span{
+    color: brown;
+}
+body{
+    background-image: url(./images/download\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
